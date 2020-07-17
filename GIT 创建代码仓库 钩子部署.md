@@ -9,7 +9,7 @@
 ## 设置git密码
 `passwd git`
 
-## git 用户添加到 wwww 组
+## git 用户添加到 www 组
 `usermode -a -G www git `
 
 ## 下创建仓库 
