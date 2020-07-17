@@ -12,7 +12,7 @@
 ## git 用户添加到 www 组
 `usermode -a -G www git `
 
-## 下创建仓库 
+## 创建仓库 
 `git init --bare --shared=group test.git`
 
 ## 设置仓库目录权限
